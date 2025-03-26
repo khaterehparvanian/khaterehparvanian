@@ -26,8 +26,4 @@
 - 🎨 *Visual Identity & Website Design for ZAKER SMART*  
 - 📘 *Co-author of* **"Wireless Sensor Networks"** – [Available on Amazon](https://www.amazon.co.uk/dp/B0CKKWPML4)
 
----
-
-## 📬 Contact
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/khatereh-parvanian/)    
+---  
